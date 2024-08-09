@@ -1,0 +1,7 @@
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Lambda\bin\Debug\Study_Lambda.exe.config
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Lambda\bin\Debug\Study_Lambda.exe
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Lambda\bin\Debug\Study_Lambda.pdb
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Lambda\obj\Debug\Study_Lambda.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Lambda\obj\Debug\Study_Lambda.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Lambda\obj\Debug\Study_Lambda.exe
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Lambda\obj\Debug\Study_Lambda.pdb
