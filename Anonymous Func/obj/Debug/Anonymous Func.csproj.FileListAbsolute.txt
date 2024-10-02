@@ -1,0 +1,7 @@
+C:\JHIWHOON_ws\github_ws\About_CSharp\Anonymous Func\bin\Debug\Anonymous Func.exe.config
+C:\JHIWHOON_ws\github_ws\About_CSharp\Anonymous Func\bin\Debug\Anonymous Func.exe
+C:\JHIWHOON_ws\github_ws\About_CSharp\Anonymous Func\bin\Debug\Anonymous Func.pdb
+C:\JHIWHOON_ws\github_ws\About_CSharp\Anonymous Func\obj\Debug\Anonymous Func.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\github_ws\About_CSharp\Anonymous Func\obj\Debug\Anonymous Func.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\github_ws\About_CSharp\Anonymous Func\obj\Debug\Anonymous Func.exe
+C:\JHIWHOON_ws\github_ws\About_CSharp\Anonymous Func\obj\Debug\Anonymous Func.pdb

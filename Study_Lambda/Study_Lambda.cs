@@ -47,14 +47,30 @@ namespace Study_Lambda
 
     class Study_Lambda
     {
+        //static void Main(string[] args)
+        //{
+        //    Hi a = new Hi("A");
+        //    a.BaseMethod();
+
+        //    Derived b=new Derived("B");
+        //    b.BaseMethod();
+        //    b.DerivedMethod();
+        //}
+        delegate string Concatenate(string[] args);
+
         static void Main(string[] args)
         {
-            Hi a = new Hi("A");
-            a.BaseMethod();
+            Concatenate concat = (arr) =>
+            {
+                string result = "";
+                foreach (string s in arr)
+                {
+                    result += s;
+                }
+                return result;
+            };
 
-            Derived b=new Derived("B");
-            b.BaseMethod();
-            b.DerivedMethod();
+            Console.WriteLine(concat(args));
         }
     }
 }

@@ -1,0 +1,7 @@
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Generic\bin\Debug\Study_Generic.exe.config
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Generic\bin\Debug\Study_Generic.exe
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Generic\bin\Debug\Study_Generic.pdb
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Generic\obj\Debug\Study_Generic.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Generic\obj\Debug\Study_Generic.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Generic\obj\Debug\Study_Generic.exe
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Generic\obj\Debug\Study_Generic.pdb

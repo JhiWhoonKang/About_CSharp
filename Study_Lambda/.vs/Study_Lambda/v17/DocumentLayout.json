@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{EC81C982-6E7C-49FB-A9DD-BD86C0B58F70}|Study_Lambda.csproj|c:\\jhiwhoon_ws\\github_ws\\about_csharp\\study_lambda\\study_lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC81C982-6E7C-49FB-A9DD-BD86C0B58F70}|Study_Lambda.csproj|solutionrelative:study_lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC81C982-6E7C-49FB-A9DD-BD86C0B58F70}|Study_Lambda.csproj|c:\\jhiwhoon_ws\\github_ws\\about_csharp\\study_lambda\\anonymous func.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC81C982-6E7C-49FB-A9DD-BD86C0B58F70}|Study_Lambda.csproj|solutionrelative:anonymous func.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 725,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anonymous Func.cs",
+              "DocumentMoniker": "C:\\JHIWHOON_ws\\github_ws\\About_CSharp\\Study_Lambda\\Anonymous Func.cs",
+              "RelativeDocumentMoniker": "Anonymous Func.cs",
+              "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\About_CSharp\\Study_Lambda\\Anonymous Func.cs",
+              "RelativeToolTip": "Anonymous Func.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T14:55:51.557Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,14 +41,10 @@
               "RelativeDocumentMoniker": "Study_Lambda.cs",
               "ToolTip": "C:\\JHIWHOON_ws\\github_ws\\About_CSharp\\Study_Lambda\\Study_Lambda.cs",
               "RelativeToolTip": "Study_Lambda.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAywDgAAAAeAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwEkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T16:50:11.462Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

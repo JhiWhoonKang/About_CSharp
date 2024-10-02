@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EC81C982-6E7C-49FB-A9DD-BD86C0B58F70}</ProjectGuid>
+    <ProjectGuid>{F3A91E7D-61D9-456B-95A9-838412A3489B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Study_Lambda</RootNamespace>
-    <AssemblyName>Study_Lambda</AssemblyName>
+    <RootNamespace>Anonymous_Func</RootNamespace>
+    <AssemblyName>Anonymous Func</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Anonymous Func.cs" />
-    <Compile Include="Study_Lambda.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
