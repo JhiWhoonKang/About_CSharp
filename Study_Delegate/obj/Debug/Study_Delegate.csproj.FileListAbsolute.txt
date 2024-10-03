@@ -1,0 +1,7 @@
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Delegate\bin\Debug\Study_Delegate.exe.config
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Delegate\bin\Debug\Study_Delegate.exe
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Delegate\bin\Debug\Study_Delegate.pdb
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Delegate\obj\Debug\Study_Delegate.csproj.AssemblyReference.cache
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Delegate\obj\Debug\Study_Delegate.csproj.CoreCompileInputs.cache
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Delegate\obj\Debug\Study_Delegate.exe
+C:\JHIWHOON_ws\github_ws\About_CSharp\Study_Delegate\obj\Debug\Study_Delegate.pdb
